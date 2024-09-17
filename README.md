@@ -39,3 +39,6 @@ A web application for the Dubai Stealers Basketball Academy developed with Node.
     ```bash
     npm start
     ```
+
+### PS
+this project will upgrade to express and EJS!
